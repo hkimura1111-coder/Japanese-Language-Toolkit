@@ -48,4 +48,3 @@ text = input("Enter Japanese text: ")
 analyze_text(text)
 
 
-
