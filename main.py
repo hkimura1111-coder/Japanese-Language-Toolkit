@@ -15,6 +15,7 @@ def analyze_text(text):
     kanji_count = 0
     katakana_count = 0
     latin_count = 0
+    
     number_count = 0
     other_count = 0
     
