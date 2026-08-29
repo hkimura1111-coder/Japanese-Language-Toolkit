@@ -28,6 +28,12 @@ Total characters: 17
 - Loops
 - Character classification
 - Counters
+### vocabulary_quiz.py
+Japanese vocabulary learning tool featuring:
+- Japanese → English translation quiz
+- Score tracking
+- Correct/Wrong feedback
+- Correct answer display
 ## Learning Goals
 This project is part of my long-term goal of combining:
 - Linguistics
