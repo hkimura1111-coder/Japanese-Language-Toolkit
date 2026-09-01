@@ -34,6 +34,21 @@ Japanese vocabulary learning tool featuring:
 - Score tracking
 - Correct/Wrong feedback
 - Correct answer display
+Markdown
+### Word Frequency Analyzer
+Features:
+- Word frequency counting
+- Most common word detection
+- Dictionary-based frequency analysis
+Example:
+Input:
+猫 犬 猫 鳥 犬
+Output:
+猫 : 2
+犬 : 2
+鳥 : 1
+Most common word: 猫
+Frequency: 2
 ## Learning Goals
 This project is part of my long-term goal of combining:
 - Linguistics
