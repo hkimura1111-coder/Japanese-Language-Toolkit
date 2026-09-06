@@ -24,6 +24,12 @@ A beginner Python project for analyzing Japanese text by character type, develop
 - Reads Japanese text from files
 - Character frequency analysis
 - Most common character detection
+### Multi-File Text Analyzer
+- Reads multiple text files
+- Counts total characters
+- Counts unique characters
+- Finds the most common character
+- Compares multiple documents
 ## Learning Goals
 This project is part of my long-term goal of combining:
 - Linguistics
