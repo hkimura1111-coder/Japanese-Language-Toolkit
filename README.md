@@ -30,6 +30,11 @@ A beginner Python project for analyzing Japanese text by character type, develop
 - Counts unique characters
 - Finds the most common character
 - Compares multiple documents
+### Keyword Frequency Analyzer
+Features:
+- Keyword frequency counting
+- Top keyword detection
+- Dictionary-based text analysis
 ## Learning Goals
 This project is part of my long-term goal of combining:
 - Linguistics
