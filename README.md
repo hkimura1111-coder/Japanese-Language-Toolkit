@@ -35,6 +35,13 @@ Features:
 - Keyword frequency counting
 - Top keyword detection
 - Dictionary-based text analysis
+### Stop-Word Remover & Keyword Extractor
+A simple keyword extraction tool that removes common stop words and identifies important keywords in text.
+Features:
+- Removes common stop words
+- Extracts keywords from text
+- Counts keyword frequencies
+- Identifies the top keyword
 ## Learning Goals
 This project is part of my long-term goal of combining:
 - Linguistics
