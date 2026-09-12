@@ -42,6 +42,11 @@ Features:
 - Extracts keywords from text
 - Counts keyword frequencies
 - Identifies the top keyword
+### Basic Sentiment Analyzer
+Features:
+- Positive and negative word detection
+- Sentiment scoring
+- Positive, Negative, or Neutral classificatio
 ## Learning Goals
 This project is part of my long-term goal of combining:
 - Linguistics
